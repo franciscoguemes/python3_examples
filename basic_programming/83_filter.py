@@ -3,6 +3,8 @@
 # In this example I am going to show how to use the filter function in Python
 # See:
 #   https://book.pythontips.com/en/latest/map_filter.html#filter
+#   https://www.programiz.com/python-programming/methods/built-in/filter
+
 
 # The filter function accepts a couple of parameters:
 #   -the function to apply to each element. The function can be also a lambda.
