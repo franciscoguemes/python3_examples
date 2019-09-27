@@ -1,4 +1,5 @@
-This is an example based on: https://github.com/KeithGalli/GUI
+This is an example based on: 
+	https://github.com/KeithGalli/GUI
 	https://www.youtube.com/watch?v=D8-snVfekto&t=1479s
 
 To execute the app simply:
