@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import  math
+import math
 
 # In this example I am going to show how to use the map function in Python by using an overcomplicated example.
 # See:
