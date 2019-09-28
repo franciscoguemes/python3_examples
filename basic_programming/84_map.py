@@ -6,8 +6,6 @@ import  math
 # See:
 #   https://book.pythontips.com/en/latest/map_filter.html#map
 
-# TODO:
-
 # To summarize the map function works as follows:
 #   map(function_to_apply, list_of_inputs)
 
