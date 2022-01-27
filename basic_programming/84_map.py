@@ -35,7 +35,7 @@ print("The generated numbers are:")
 print_iterable(numbers)
 # You could achieve the same result without the lambda expression calling directly to "calculate_root" passing
 # directly the function as argument or on the other hand side if you use a lambda expression calculating the square
-# root inside the lambda expession.
+# root inside the lambda expression.
 # Also in the second argument of the function map, I directly applied a filter over the collection. To make it more
 # readable you could apply the filter, store the resulting collection in a variable, and pass it as second argument
 # to the map function.
