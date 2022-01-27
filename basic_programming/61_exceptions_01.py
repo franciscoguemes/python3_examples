@@ -12,7 +12,7 @@ def get_number(message):
         except ValueError:
             print("The supplied value is not a number, Try again...")
         except:
-            # This will catch any eother exception
+            # This will catch any other exception
             print("An unexpected error has occur")
 
 
