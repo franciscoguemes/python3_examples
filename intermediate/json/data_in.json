@@ -1,0 +1,16 @@
+{
+    "workers": [
+        {
+            "id": 1,
+            "name": "John",
+            "age": 45,
+            "full-time": true
+        },
+        {
+            "id": 2,
+            "name": "Mathew",
+            "age": 25,
+            "full-time": false
+        }
+    ]
+}

@@ -9,7 +9,7 @@ import shutil
 from os.path import abspath
 
 # Resolve current working directory: https://stackoverflow.com/a/32838876
-pwd = abspath('.')
+pwd = abspath('')
 #Iterate over the files in the directory: https://stackoverflow.com/a/10378012
 for file in os.listdir(pwd):
 	# Compose the absolute file name

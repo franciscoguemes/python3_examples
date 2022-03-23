@@ -1,0 +1,30 @@
+{
+    "workers": [
+        {
+            "id": 1,
+            "name": "John",
+            "age": 45,
+            "full-time": true
+        },
+        {
+            "id": 2,
+            "name": "Mathew",
+            "age": 25,
+            "full-time": false
+        },
+        {
+            "id": 3,
+            "name": "Carl",
+            "age": 38,
+            "full-time": true
+        },
+        {
+            "id": 4,
+            "name": "Donald",
+            "age": 39,
+            "full-time": true
+        }
+    ],
+    "test": true,
+    "shift": "Night"
+}
