@@ -26,9 +26,12 @@ try:
     num1 = get_number("Introduce the number to calculate the square root:")
     if num1<0:
         raise InvalidArgumentException
-    print("The result is:", math.sqrt(num1))
+
 except InvalidArgumentException:
     print("It is not allowed to calculate the square root of a negative number!")
+else:
+    # Excecutes if try block "succeeds"
+    print("The result is:", math.sqrt(num1))
 finally:
     # This block will be always executed independently of what happens...
     print("Thanks for using the square root app!")

@@ -8,12 +8,14 @@ def get_number(message):
     while True:
         try:
             num1 = int(input(message))
-            return num1
         except ValueError:
             print("The supplied value is not a number, Try again...")
         except:
             # This will catch any other exception
             print("An unexpected error has occur")
+        else:
+            # else block excecutes if try block "succeeds"
+            return num1
 
 
 print("Welcome to the division app...")
